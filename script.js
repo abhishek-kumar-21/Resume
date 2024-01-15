@@ -1,5 +1,3 @@
-// Create a toggle button that changes the screen to dark mode when clicked & light mode when clicked again.
-// Toggling
 let modeBtn = document.querySelector("#mode");
 let body = document.querySelector("body");
 let currMode = "light"; 
