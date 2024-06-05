@@ -3,4 +3,4 @@
 <br>
 it is basic example of a RESUME created using html, css and javascript.
 
-[Live Preview](https://abhishek-kumar-21.github.io/Resume/)
+<a href="[https://abhishek-kumar-21.github.io/Resume/]" target="_blank">Live Preview</a>
